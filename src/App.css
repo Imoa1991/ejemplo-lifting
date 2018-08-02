@@ -1,0 +1,25 @@
+.ItemList {
+  background-color: white; }
+
+.item-list {
+  list-style: none; }
+
+.item {
+  border: 2px solid green;
+  margin: 5px;
+  padding: 2px; }
+
+.name {
+  color: blue; }
+
+.quantity {
+  color: red; }
+
+.description {
+  color: green; }
+
+.category {
+  color: black; }
+
+.price {
+  color: red; }
